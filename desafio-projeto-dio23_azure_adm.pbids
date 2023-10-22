@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"mysql","address":{"server":"desafio-projeto-dio23.mysql.database.azure.com","database":"azure_adm"}},"options":{"ReturnSingleDatabase":true}}]}
